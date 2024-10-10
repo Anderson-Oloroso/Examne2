@@ -60,12 +60,10 @@ C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-P
 C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.Resources.resources
 C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.vbproj.GenerateResource.Cache
 =======
-<<<<<<< HEAD
 C:\Users\5to Compu 02\Documents\eddddd\2024CompuAplicada-PF\bin\Debug\2024CompuAplicada-PF.exe.config
 C:\Users\5to Compu 02\Documents\eddddd\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.exe
 C:\Users\5to Compu 02\Documents\eddddd\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.xml
 C:\Users\5to Compu 02\Documents\eddddd\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.pdb
-=======
 C:\Users\5to Compu\OneDrive\Documentos\clonacionog\2024CompuAplicada-PF\bin\Debug\2024CompuAplicada-PF.exe.config
 C:\Users\5to Compu\OneDrive\Documentos\clonacionog\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.exe
 C:\Users\5to Compu\OneDrive\Documentos\clonacionog\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.xml
@@ -89,3 +87,8 @@ C:\Users\5to Compu\OneDrive\Documentos\clonacionog\2024CompuAplicada-PF\obj\Debu
 C:\Users\5to Compu\OneDrive\Documentos\clonacionog\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.vbproj.GenerateResource.Cache
 >>>>>>> ad8429dd291557be8a481346f2db77147777e2e2
 >>>>>>> a852065c7f0600e5c813e1c9717ba2dad41b8ede
+C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmregion.resources
+C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmdepto.resources
+C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmImpimuni.resources
+C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmMuni.resources
+C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmNivelAca.resources

@@ -76,6 +76,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmRegion.designer.vb">
+      <DependentUpon>frmRegion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegion.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmAct2.Designer.vb">
       <DependentUpon>frmAct2.vb</DependentUpon>
     </Compile>
@@ -100,6 +106,12 @@
     <Compile Include="frmAgrEmpl.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmdepto.designer.vb">
+      <DependentUpon>frmdepto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdepto.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmDTCuenta.Designer.vb">
       <DependentUpon>frmDTCuenta.vb</DependentUpon>
     </Compile>
@@ -112,10 +124,28 @@
     <Compile Include="frmDEmpleado.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmImpimuni.designer.vb">
+      <DependentUpon>frmImpimuni.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmImpimuni.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMenuPrincipal.designer.vb">
       <DependentUpon>frmMenuPrincipal.vb</DependentUpon>
     </Compile>
     <Compile Include="frmMenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuni.designer.vb">
+      <DependentUpon>frmMuni.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMuni.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNivelAca.designer.vb">
+      <DependentUpon>frmNivelAca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNivelAca.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="mdiAdministrador.Designer.vb">
@@ -154,6 +184,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmRegion.resx">
+      <DependentUpon>frmRegion.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmAct2.resx">
       <DependentUpon>frmAct2.vb</DependentUpon>
     </EmbeddedResource>
@@ -166,14 +199,26 @@
     <EmbeddedResource Include="frmAgrEmpl.resx">
       <DependentUpon>frmAgrEmpl.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmdepto.resx">
+      <DependentUpon>frmdepto.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmDTCuenta.resx">
       <DependentUpon>frmDTCuenta.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmDEmpleado.resx">
       <DependentUpon>frmDEmpleado.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmImpimuni.resx">
+      <DependentUpon>frmImpimuni.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMenuPrincipal.resx">
       <DependentUpon>frmMenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuni.resx">
+      <DependentUpon>frmMuni.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNivelAca.resx">
+      <DependentUpon>frmNivelAca.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="mdiAdministrador.resx">
       <DependentUpon>mdiAdministrador.vb</DependentUpon>
