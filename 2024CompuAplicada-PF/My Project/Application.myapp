@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MyApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <MySubMain>true</MySubMain>
+<<<<<<< HEAD
+  <MainForm>mdiPapamenu</MainForm>
+=======
   <MainForm>frmMenuPrincipal</MainForm>
+>>>>>>> d215bc8058f98c481da3d0615b5cde32b1f6a6e4
   <SingleInstance>false</SingleInstance>
   <ShutdownMode>0</ShutdownMode>
   <EnableVisualStyles>true</EnableVisualStyles>

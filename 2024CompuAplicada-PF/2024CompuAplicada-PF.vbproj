@@ -106,10 +106,23 @@
     <Compile Include="frmAgrEmpl.vb">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frmdepto.designer.vb">
       <DependentUpon>frmdepto.vb</DependentUpon>
     </Compile>
     <Compile Include="frmdepto.vb">
+=======
+    <Compile Include="frmCiudadanos.designer.vb">
+      <DependentUpon>frmCiudadanos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCiudadanos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartamento.designer.vb">
+      <DependentUpon>frmDepartamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartamento.vb">
+>>>>>>> 9ccf9f4442cde4953843b76b0cda09115389871e
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmDTCuenta.Designer.vb">
@@ -136,6 +149,7 @@
     <Compile Include="frmMenuPrincipal.vb">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frmMuni.designer.vb">
       <DependentUpon>frmMuni.vb</DependentUpon>
     </Compile>
@@ -146,6 +160,18 @@
       <DependentUpon>frmNivelAca.vb</DependentUpon>
     </Compile>
     <Compile Include="frmNivelAca.vb">
+=======
+    <Compile Include="frmMunicipio.designer.vb">
+      <DependentUpon>frmMunicipio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMunicipio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegion.designer.vb">
+      <DependentUpon>frmRegion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegion.vb">
+>>>>>>> 9ccf9f4442cde4953843b76b0cda09115389871e
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="mdiAdministrador.Designer.vb">
@@ -160,10 +186,10 @@
     <Compile Include="mdiEncargado.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="mdiOperador.Designer.vb">
-      <DependentUpon>mdiOperador.vb</DependentUpon>
+    <Compile Include="mdiPapamenu.designer.vb">
+      <DependentUpon>mdiPapamenu.vb</DependentUpon>
     </Compile>
-    <Compile Include="mdiOperador.vb">
+    <Compile Include="mdiPapamenu.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="modConexion.vb" />
@@ -199,8 +225,16 @@
     <EmbeddedResource Include="frmAgrEmpl.resx">
       <DependentUpon>frmAgrEmpl.vb</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="frmdepto.resx">
       <DependentUpon>frmdepto.vb</DependentUpon>
+=======
+    <EmbeddedResource Include="frmCiudadanos.resx">
+      <DependentUpon>frmCiudadanos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartamento.resx">
+      <DependentUpon>frmDepartamento.vb</DependentUpon>
+>>>>>>> 9ccf9f4442cde4953843b76b0cda09115389871e
     </EmbeddedResource>
     <EmbeddedResource Include="frmDTCuenta.resx">
       <DependentUpon>frmDTCuenta.vb</DependentUpon>
@@ -214,11 +248,19 @@
     <EmbeddedResource Include="frmMenuPrincipal.resx">
       <DependentUpon>frmMenuPrincipal.vb</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="frmMuni.resx">
       <DependentUpon>frmMuni.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmNivelAca.resx">
       <DependentUpon>frmNivelAca.vb</DependentUpon>
+=======
+    <EmbeddedResource Include="frmMunicipio.resx">
+      <DependentUpon>frmMunicipio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegion.resx">
+      <DependentUpon>frmRegion.vb</DependentUpon>
+>>>>>>> 9ccf9f4442cde4953843b76b0cda09115389871e
     </EmbeddedResource>
     <EmbeddedResource Include="mdiAdministrador.resx">
       <DependentUpon>mdiAdministrador.vb</DependentUpon>
@@ -226,8 +268,8 @@
     <EmbeddedResource Include="mdiEncargado.resx">
       <DependentUpon>mdiEncargado.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="mdiOperador.resx">
-      <DependentUpon>mdiOperador.vb</DependentUpon>
+    <EmbeddedResource Include="mdiPapamenu.resx">
+      <DependentUpon>mdiPapamenu.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
