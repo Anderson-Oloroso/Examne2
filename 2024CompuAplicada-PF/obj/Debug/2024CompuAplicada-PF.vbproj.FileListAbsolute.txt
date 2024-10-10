@@ -41,3 +41,7 @@ C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-P
 C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.exe
 C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.xml
 C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.pdb
+C:\Users\5to Compu 02\Documents\eddddd\2024CompuAplicada-PF\bin\Debug\2024CompuAplicada-PF.exe.config
+C:\Users\5to Compu 02\Documents\eddddd\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.exe
+C:\Users\5to Compu 02\Documents\eddddd\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.xml
+C:\Users\5to Compu 02\Documents\eddddd\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.pdb
