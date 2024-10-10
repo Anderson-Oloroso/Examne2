@@ -124,11 +124,10 @@
     <Compile Include="frmDEmpleado.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmMenuPrincipal.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmMenuPrincipal.Designer.vb">
+    <Compile Include="frmMenuPrincipal.designer.vb">
       <DependentUpon>frmMenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmMunicipio.designer.vb">
