@@ -100,6 +100,18 @@
     <Compile Include="frmAgrEmpl.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmCiudadanos.designer.vb">
+      <DependentUpon>frmCiudadanos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCiudadanos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartamento.designer.vb">
+      <DependentUpon>frmDepartamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmDTCuenta.Designer.vb">
       <DependentUpon>frmDTCuenta.vb</DependentUpon>
     </Compile>
@@ -119,6 +131,18 @@
       <DependentUpon>frmMenuPrincipal.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmMunicipio.designer.vb">
+      <DependentUpon>frmMunicipio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMunicipio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegion.designer.vb">
+      <DependentUpon>frmRegion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegion.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="mdiAdministrador.Designer.vb">
       <DependentUpon>mdiAdministrador.vb</DependentUpon>
     </Compile>
@@ -131,10 +155,10 @@
     <Compile Include="mdiEncargado.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="mdiOperador.Designer.vb">
-      <DependentUpon>mdiOperador.vb</DependentUpon>
+    <Compile Include="mdiPapamenu.designer.vb">
+      <DependentUpon>mdiPapamenu.vb</DependentUpon>
     </Compile>
-    <Compile Include="mdiOperador.vb">
+    <Compile Include="mdiPapamenu.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="modConexion.vb" />
@@ -167,6 +191,12 @@
     <EmbeddedResource Include="frmAgrEmpl.resx">
       <DependentUpon>frmAgrEmpl.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmCiudadanos.resx">
+      <DependentUpon>frmCiudadanos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartamento.resx">
+      <DependentUpon>frmDepartamento.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmDTCuenta.resx">
       <DependentUpon>frmDTCuenta.vb</DependentUpon>
     </EmbeddedResource>
@@ -176,14 +206,20 @@
     <EmbeddedResource Include="frmMenuPrincipal.resx">
       <DependentUpon>frmMenuPrincipal.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMunicipio.resx">
+      <DependentUpon>frmMunicipio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegion.resx">
+      <DependentUpon>frmRegion.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="mdiAdministrador.resx">
       <DependentUpon>mdiAdministrador.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="mdiEncargado.resx">
       <DependentUpon>mdiEncargado.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="mdiOperador.resx">
-      <DependentUpon>mdiOperador.vb</DependentUpon>
+    <EmbeddedResource Include="mdiPapamenu.resx">
+      <DependentUpon>mdiPapamenu.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

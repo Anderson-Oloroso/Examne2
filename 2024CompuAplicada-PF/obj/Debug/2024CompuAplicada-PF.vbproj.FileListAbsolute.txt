@@ -41,3 +41,29 @@ C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-P
 C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.exe
 C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.xml
 C:\Users\5to Compu\Documents\Visual Studio 2015\Repositories\2024CompuAplicada-PF\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.pdb
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\bin\Debug\2024CompuAplicada-PF.exe.config
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.exe
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.xml
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.pdb
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.vbprojResolveAssemblyReference.cache
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmAct2.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmActualizar.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmAgregarC.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmAgrEmpl.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmDTCuenta.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmDEmpleado.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmMenuPrincipal.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.mdiAdministrador.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.mdiEncargado.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.mdiOperador.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.mdiPapamenu.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.Resources.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\2024CompuAplicada-PF.vbproj.GenerateResource.Cache
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmCiudadanos.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmDepartamento.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmMunicipio.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\obj\Debug\_2024CompuAplicada_PF.frmRegion.resources
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\bin\Debug\2024CompuAplicada-PF.exe
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\bin\Debug\2024CompuAplicada-PF.pdb
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\bin\Debug\2024CompuAplicada-PF.xml
+C:\Users\5toCompu\Source\Repos\Examne22\2024CompuAplicada-PF\bin\Debug\itextsharp.dll
