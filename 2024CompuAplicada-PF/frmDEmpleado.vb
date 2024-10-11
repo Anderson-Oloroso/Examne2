@@ -115,11 +115,6 @@ Public Class frmDEmpleado
     Private Sub btnAgregar_Click(sender As Object, e As EventArgs) Handles btnAgregar.Click
         frmAgrEmpl.Show()
     End Sub
-
-    Private Sub btnCerrar_Click(sender As Object, e As EventArgs) Handles btnCerrar.Click
-        Close()
-    End Sub
-
     Private Sub btnEliminar_Click(sender As Object, e As EventArgs) Handles btnEliminar.Click
         eliminar()
     End Sub

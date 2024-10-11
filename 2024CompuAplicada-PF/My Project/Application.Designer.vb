@@ -32,11 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-<<<<<<< HEAD
-            Me.MainForm = Global._2024CompuAplicada_PF.mdiPapamenu
-=======
             Me.MainForm = Global._2024CompuAplicada_PF.frmMenuPrincipal
->>>>>>> d215bc8058f98c481da3d0615b5cde32b1f6a6e4
         End Sub
     End Class
 End Namespace

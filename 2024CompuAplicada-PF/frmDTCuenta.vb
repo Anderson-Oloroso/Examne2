@@ -114,10 +114,6 @@ Public Class frmDTCuenta
         frmAgregarC.Show()
     End Sub
 
-    Private Sub btnCerrar_Click(sender As Object, e As EventArgs) Handles btnCerrar.Click
-        Close()
-    End Sub
-
     Private Sub btnEliminar_Click(sender As Object, e As EventArgs) Handles btnEliminar.Click
         eliminar()
     End Sub
